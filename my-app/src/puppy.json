@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "german shepard",
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg",
+        "clicked":false
+    },
+    {
+        "id": 2,
+        "name": "golden retiever",
+        "image": "https://static.parade.com/wp-content/uploads/2018/03/golden-puppy-life-national-geographic-ftr-1.jpg",
+        "clicked":false
+    },
+    {
+        "id": 3,
+        "name": "beagle",
+        "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/All-about-puppies--Cesar%E2%80%99s-tips%2C-tricks-and-advice.jpg?itok=bi9xUvwe",
+        "clicked":false
+    },
+    {
+        "id": 4,
+        "name": "bullddog",
+        "image": "http://www.dogbreedslist.info/dog-wallpapers/Bulldog-puppy-cute-grass-3910x2597.jpg",
+        "clicked":false
+    },
+    {
+        "id": 5,
+        "name": "jack russle",
+        "image": "https://2bs1rv1d3u185ixhu13k1l0g-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/bobert.jpg",
+        "clicked":false
+    },
+    {
+        "id": 6,
+        "name": "chocolate lab",
+        "image": "https://ybxzcgnc7b-flywheel.netdna-ssl.com/wp-content/uploads/2015/07/buying-a-chocolate-labrador-puppy.jpg",
+        "clicked":false
+    },
+    {
+        "id": 7,
+        "name": "bernese moutain",
+        "image": "https://s3.us-west-2.amazonaws.com/photos.puppyspot.com/breeds/264/card/500000285_medium.jpg",
+        "clicked":false
+    },
+    {
+        "id": 8,
+        "name": "havenese",
+        "image": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2016/07/Havanese-Puppies-For-Sale-600x600.jpg",
+        "clicked":false
+    },
+    {
+        "id": 8,
+        "image": "",
+        "clicked":false
+    },
+    {
+        "id": 9,
+        "image": "",
+        "clicked":false
+    },
+    {
+        "id": 10,
+        "image": "",
+        "clicked":false
+    },
+    {
+        "id": 11,
+        "image": "",
+        "clicked":false
+    },
+    {
+        "id": 12,
+        "image": "",
+        "clicked":false
+    }
+]
