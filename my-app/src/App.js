@@ -45,7 +45,7 @@ class App extends Component {
   render() {
     if(!this.state.userLost){
     return (
-      <Wrapper>
+      <Wrapper>Click the same picture twice, you loose!
         <Title>Puppy Clicker</Title>
         {this.state.puppy.map((pup) => (
           <PuppyCard

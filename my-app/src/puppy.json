@@ -2,75 +2,61 @@
     {
         "id": 1,
         "name": "german shepard",
-        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg",
-        "clicked":false
+        "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg"
     },
     {
         "id": 2,
         "name": "golden retiever",
-        "image": "https://static.parade.com/wp-content/uploads/2018/03/golden-puppy-life-national-geographic-ftr-1.jpg",
-        "clicked":false
+        "image": "https://static.parade.com/wp-content/uploads/2018/03/golden-puppy-life-national-geographic-ftr-1.jpg"
     },
     {
         "id": 3,
         "name": "beagle",
-        "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/All-about-puppies--Cesar%E2%80%99s-tips%2C-tricks-and-advice.jpg?itok=bi9xUvwe",
-        "clicked":false
+        "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/All-about-puppies--Cesar%E2%80%99s-tips%2C-tricks-and-advice.jpg?itok=bi9xUvwe"
     },
     {
         "id": 4,
         "name": "bullddog",
-        "image": "http://www.dogbreedslist.info/dog-wallpapers/Bulldog-puppy-cute-grass-3910x2597.jpg",
-        "clicked":false
+        "image": "http://www.dogbreedslist.info/dog-wallpapers/Bulldog-puppy-cute-grass-3910x2597.jpg"
     },
     {
         "id": 5,
         "name": "jack russle",
-        "image": "https://2bs1rv1d3u185ixhu13k1l0g-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/bobert.jpg",
-        "clicked":false
+        "image": "https://2bs1rv1d3u185ixhu13k1l0g-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/bobert.jpg"
     },
     {
         "id": 6,
         "name": "chocolate lab",
-        "image": "https://ybxzcgnc7b-flywheel.netdna-ssl.com/wp-content/uploads/2015/07/buying-a-chocolate-labrador-puppy.jpg",
-        "clicked":false
+        "image": "https://ybxzcgnc7b-flywheel.netdna-ssl.com/wp-content/uploads/2015/07/buying-a-chocolate-labrador-puppy.jpg"
     },
     {
         "id": 7,
         "name": "bernese moutain",
-        "image": "https://s3.us-west-2.amazonaws.com/photos.puppyspot.com/breeds/264/card/500000285_medium.jpg",
-        "clicked":false
+        "image": "https://s3.us-west-2.amazonaws.com/photos.puppyspot.com/breeds/264/card/500000285_medium.jpg"
     },
     {
         "id": 8,
         "name": "havenese",
-        "image": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2016/07/Havanese-Puppies-For-Sale-600x600.jpg",
-        "clicked":false
-    },
-    {
-        "id": 815,
-        "name": "boxer",
-        "image": "https://petlandkennesaw.com/wp-content/uploads/2017/03/boxer-puppies-for-sale-2-300x209.jpg",
-        "clicked":false
+        "image": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2016/07/Havanese-Puppies-For-Sale-600x600.jpg"
     },
     {
         "id": 9,
-        "image": "",
-        "clicked":false
+        "name:": "chihuahuas",
+        "image": "https://cmeimg-a.akamaihd.net/640/photos.demandstudios.com/getty/article/94/30/156461622.jpg"
     },
     {
         "id": 10,
-        "image": "",
-        "clicked":false
+        "name": "french bulldog",
+        "image": "https://cdn2-www.dogtime.com/assets/uploads/2016/09/French-Bulldog-Puppy-5-460x306.jpg"
     },
     {
         "id": 11,
-        "image": "",
-        "clicked":false
+        "name": "poodle",
+        "image": "https://gfnc1kn6pi-flywheel.netdna-ssl.com/wp-content/uploads/2018/06/bichon-poodle-header-1024x555.jpg"
     },
     {
         "id": 12,
-        "image": "",
-        "clicked":false
+        "name": "boxer",
+        "image": "https://petlandkennesaw.com/wp-content/uploads/2017/03/boxer-puppies-for-sale-2-300x209.jpg"
     }
 ]
